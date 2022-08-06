@@ -1,2 +1,3 @@
 # hello-world
 Example short description...
+Hello, my name is Manu Koppella and I'm using this to work with my group on an app. I'm very excited for it!!
